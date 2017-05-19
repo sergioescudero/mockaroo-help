@@ -65,7 +65,7 @@ For that can be used the formula field:
 These formula fields have to be programming in Ruby.
 
 
-![Formula field detail](formulaDetail.png)
+![Formula field detail](formulaFieldDetail.png)
 
 
 
