@@ -164,6 +164,12 @@ lastLetter = letters[position]
 concat(letterNIE, id, '-', lastLetter)
 ```
 
+**10.) Convert an integer number to string**
+
+```ruby
+this.to_s
+```
+
 #### Mock data
 When the schema is built, it is time to download the mock data.
 
